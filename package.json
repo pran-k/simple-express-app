@@ -1,0 +1,21 @@
+{
+  "name": "simple-express-app",
+  "version": "0.0.1",
+  "description": "Sample boiler-plate express application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "test",
+    "node",
+    "express"
+  ],
+  "author": "Pranay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
